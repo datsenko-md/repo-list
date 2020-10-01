@@ -1,4 +1,4 @@
-# Портфолио
+# Список репозиориев
 
 * [SICP](https://github.com/datsenko-md/sicp-racket)
 * [Грокаем Алгоритмы на JS](https://github.com/datsenko-md/grokking-algorithms-js), [на Php](https://github.com/datsenko-md/grokking-algorithms-php)
